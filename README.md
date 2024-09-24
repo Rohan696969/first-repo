@@ -1,4 +1,4 @@
 # first-repo
 this is my first Repo
 <br>
-Author - Rohan Sutar
+Author - Rohan Sutar (tutorial)
